@@ -1,1 +1,1 @@
-# committee-service
+# @nuxt4-layers/committee-service
